@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Selecoes": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MYSQL_URI": "server=127.0.0.1;uid=root;pwd=root;database=selecoes"
+      }
+    }
+  }
+}
